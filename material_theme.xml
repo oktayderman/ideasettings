@@ -1,7 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="isWizardShown" value="true" />
-    <option name="selectedTheme" value="MONOKAI" />
+    <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="77271cb6:16c72a31bdf:-8000" />
     <option name="version" value="4.3.1" />
   </component>
