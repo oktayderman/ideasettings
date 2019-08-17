@@ -1,0 +1,37 @@
+<scheme name="DefaultMine" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2019-08-09T09:07:37</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2019.2.0.0</property>
+    <property name="modified">2019-08-17T22:43:51</property>
+    <property name="originalScheme">DefaultMine</property>
+  </metaInfo>
+  <attributes>
+    <option name="DEFAULT_IDENTIFIER">
+      <value />
+    </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="99ccbb" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="323232" />
+        <option name="BACKGROUND" value="e6e6e6" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
