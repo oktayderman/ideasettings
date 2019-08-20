@@ -3,11 +3,12 @@
     <property name="created">2019-08-09T09:07:37</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-08-19T09:50:51</property>
+    <property name="modified">2019-08-19T18:47:15</property>
     <property name="originalScheme">DefaultMine</property>
   </metaInfo>
   <colors>
-    <option name="RIGHT_MARGIN_COLOR" value="a5a5a5" />
+    <option name="RIGHT_MARGIN_COLOR" value="bcbcbc" />
+    <option name="VISUAL_INDENT_GUIDE" value="" />
   </colors>
   <attributes>
     <option name="DEFAULT_IDENTIFIER">
