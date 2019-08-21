@@ -1,7 +1,6 @@
 <code_scheme name="MyCodeStyle" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
-  <option name="RIGHT_MARGIN" value="450" />
-  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+  <option name="RIGHT_MARGIN" value="175" />
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="175" />
   </MarkdownNavigatorCodeStyleSettings>
