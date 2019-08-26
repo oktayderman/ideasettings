@@ -119,7 +119,17 @@
       <artifact name="Snowflake" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="org.voltdb.jdbc.Driver" name="org.voltdb.jdbc.Driver" driver-class="org.voltdb.jdbc.Driver" />
+    <driver id="org.voltdb.jdbc.Driver" name="org.voltdb.jdbc.Driver" driver-class="org.voltdb.jdbc.Driver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <library>
+        <url>file://C:/depo/dev/jdbc/voltdbclient-8.4.3.jar</url>
+      </library>
+    </driver>
     <driver id="java.sql.Driver" name="VoltDB" dialect="GenericSQL" driver-class="org.voltdb.jdbc.Driver" icon="/providers/vertica.svg">
       <option name="auto-commit" value="true" />
       <option name="auto-sync" value="true" />
