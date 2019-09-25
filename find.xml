@@ -11,7 +11,7 @@
     <mask>*.xml</mask>
     <mask>*.wsdl</mask>
     <mask>*.conf</mask>
-    <mask>pom.xml</mask>
     <mask>akka.conf</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
