@@ -131,7 +131,7 @@
       <option name="source-loading" value="USER_SOURCES" />
       <option name="schema-control" value="AUTOMATIC" />
       <library>
-        <url>file://C:/depo/dev/jdbc/voltdbclient-8.4.3.jar</url>
+        <url>file://$USER_HOME$/dev/lib/voltdbclient-9.0.jar</url>
       </library>
     </driver>
     <driver id="java.sql.Driver" name="VoltDB" dialect="GenericSQL" driver-class="org.voltdb.jdbc.Driver" icon="/providers/vertica.svg">
