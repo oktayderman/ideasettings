@@ -12,5 +12,6 @@
     <mask>*.JAVA</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
