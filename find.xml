@@ -8,10 +8,11 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
-    <mask>*.sql</mask>
     <mask>*.JAVA</mask>
     <mask>*.conf</mask>
-    <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.JAva</mask>
+    <mask>*.java</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
