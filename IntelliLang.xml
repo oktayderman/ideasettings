@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JSON" injector-id="java">
+      <display-name>AOMWSHealthCheck.getString (com.i2i.fcbs.aom)</display-name>
+      <place><![CDATA[psiMethod().withName("getString").withParameters().definedInClass("com.i2i.fcbs.aom.AOMWSHealthCheck")]]></place>
+    </injection>
+  </component>
+</application>
