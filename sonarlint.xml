@@ -1,14 +1,11 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="sonarQubeServers">
+    <option name="fileExclusions">
       <list>
-        <SonarQubeServer>
-          <option name="hostUrl" value="http://172.30.10.42:9000" />
-          <option name="name" value="172-Sonar" />
-          <option name="login" value="admin" />
-          <password>dfcbdfcedfc7dfc3dfc4</password>
-          <organizationKey>default-organization</organizationKey>
-        </SonarQubeServer>
+        <option value="*.xsd" />
+        <option value="*.xml" />
+        <option value="*.xsl" />
+        <option value="*.jsp" />
       </list>
     </option>
   </component>
