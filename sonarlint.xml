@@ -1,5 +1,10 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="excludedRules">
+      <set>
+        <option value="squid:CommentedOutCodeLine" />
+      </set>
+    </option>
     <option name="fileExclusions">
       <list>
         <option value="*.xsd" />
