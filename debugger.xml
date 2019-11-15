@@ -77,10 +77,6 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
-  <component name="ThreadsViewSettings">
-    <option name="SHOW_THREAD_GROUPS" value="true" />
-    <option name="SHOW_CURRENT_THREAD" value="false" />
-  </component>
   <component name="XDebuggerSettings">
     <data-views />
     <general>
