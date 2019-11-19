@@ -4,5 +4,9 @@
       <display-name>AOMWSHealthCheck.getString (com.i2i.fcbs.aom)</display-name>
       <place><![CDATA[psiMethod().withName("getString").withParameters().definedInClass("com.i2i.fcbs.aom.AOMWSHealthCheck")]]></place>
     </injection>
+    <injection language="JSON" injector-id="java">
+      <display-name>JAXBUtility.toString (com.i2i.iutility.utility)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("toString").withParameters("java.lang.Object").definedInClass("com.i2i.iutility.utility.JAXBUtility"))]]></place>
+    </injection>
   </component>
 </application>
