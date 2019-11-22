@@ -14,5 +14,6 @@
     <mask>*.txt</mask>
     <mask>alter.sql</mask>
     <mask>*.java</mask>
+    <mask>*.log</mask>
   </component>
 </application>
