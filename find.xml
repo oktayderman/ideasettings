@@ -18,7 +18,7 @@
     <mask>*.txt</mask>
     <mask>alter.sql</mask>
     <mask>*.log</mask>
-    <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
