@@ -1,4 +1,4 @@
-<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+<keymap version="1" name="MyKeymap" parent="$default">
   <action id="EditorCreateRectangularSelectionOnMouseDrag">
     <mouse-shortcut keystroke="alt button1" />
   </action>
