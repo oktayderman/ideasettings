@@ -13,7 +13,7 @@
     <mask>*.txt</mask>
     <mask>alter.sql</mask>
     <mask>*.log</mask>
-    <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
