@@ -15,5 +15,6 @@
     <mask>pom.xml</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
+    <mask>*.SQL</mask>
   </component>
 </application>
