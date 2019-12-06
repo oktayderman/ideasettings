@@ -13,8 +13,8 @@
     <mask>alter.sql</mask>
     <mask>*.log</mask>
     <mask>*.sql</mask>
-    <mask>*.java</mask>
     <mask>*.SQL</mask>
     <mask>pom.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
