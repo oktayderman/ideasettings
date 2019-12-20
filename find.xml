@@ -1,21 +1,24 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.conf</mask>
     <mask>*.txt</mask>
     <mask>alter.sql</mask>
     <mask>*.log</mask>
     <mask>*.SQL</mask>
     <mask>pom.xml</mask>
     <mask>*.sh</mask>
-    <mask>*.sql</mask>
     <mask>*.java</mask>
+    <mask>*.conf</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
