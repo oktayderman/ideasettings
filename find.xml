@@ -11,11 +11,11 @@
     <mask>*.txt</mask>
     <mask>alter.sql</mask>
     <mask>*.log</mask>
-    <mask>*.SQL</mask>
     <mask>*.sh</mask>
-    <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*.conf</mask>
+    <mask>*.SQL</mask>
+    <mask>*.java</mask>
     <mask>pom.xml</mask>
   </component>
 </application>
