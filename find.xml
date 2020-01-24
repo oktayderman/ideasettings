@@ -12,10 +12,10 @@
     <mask>alter.sql</mask>
     <mask>*.log</mask>
     <mask>*.sh</mask>
-    <mask>*.conf</mask>
     <mask>*.SQL</mask>
     <mask>*.sql</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>*.conf</mask>
   </component>
 </application>
