@@ -154,5 +154,6 @@
         <url>file://$USER_HOME$/dev/lib/voltdbclient-9.0.jar</url>
       </library>
     </driver>
+    <driver id="com.github.adejanovski.cassandra.jdbc.CassandraDriver" name="com.github.adejanovski.cassandra.jdbc.CassandraDriver" driver-class="com.github.adejanovski.cassandra.jdbc.CassandraDriver" />
   </component>
 </application>
