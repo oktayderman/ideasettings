@@ -8,7 +8,6 @@
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.txt</mask>
     <mask>alter.sql</mask>
     <mask>*.log</mask>
     <mask>*.sh</mask>
@@ -17,5 +16,6 @@
     <mask>*.conf</mask>
     <mask>*.SQL</mask>
     <mask>*.java</mask>
+    <mask>*.txt</mask>
   </component>
 </application>
