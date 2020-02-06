@@ -8,15 +8,14 @@
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
+    <mask>*.txt</mask>
     <mask>alter.sql</mask>
     <mask>*.log</mask>
     <mask>*.sh</mask>
-    <mask>*.sql</mask>
     <mask>pom.xml</mask>
-    <mask>*.conf</mask>
     <mask>*.SQL</mask>
     <mask>*.java</mask>
-    <mask>*.txt</mask>
-    <mask>*.xsd</mask>
+    <mask>*.sql</mask>
+    <mask>*.conf</mask>
   </component>
 </application>
