@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -12,11 +13,10 @@
     <mask>alter.sql</mask>
     <mask>*.log</mask>
     <mask>*.sh</mask>
-    <mask>pom.xml</mask>
     <mask>*.SQL</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*.conf</mask>
-    <mask>*.JAVA</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
