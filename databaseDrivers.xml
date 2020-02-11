@@ -151,7 +151,7 @@
       <option name="source-loading" value="NO_SOURCES" />
       <option name="schema-control" value="FORBID" />
       <library>
-        <url>file://$USER_HOME$/dev/lib/voltdbclient-9.0.jar</url>
+        <url>file://$MAVEN_REPOSITORY$/org/voltdb/voltdbclient/8.4.3/voltdbclient-8.4.3.jar</url>
       </library>
     </driver>
     <driver id="com.github.adejanovski.cassandra.jdbc.CassandraDriver" name="com.github.adejanovski.cassandra.jdbc.CassandraDriver" driver-class="com.github.adejanovski.cassandra.jdbc.CassandraDriver" />
