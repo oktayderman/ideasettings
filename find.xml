@@ -1,21 +1,24 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="aom" />
+    <option name="defaultScopeName" value="aom" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="aom" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>alter.sql</mask>
     <mask>*.log</mask>
     <mask>*.sh</mask>
     <mask>*.SQL</mask>
     <mask>*.conf</mask>
-    <mask>pom.xml</mask>
     <mask>*.xml</mask>
     <mask>*.sql</mask>
-    <mask>*.java</mask>
+    <mask>pom.xml</mask>
     <mask>*.txt</mask>
+    <mask>alter.sql</mask>
+    <mask>*.java</mask>
   </component>
 </application>
