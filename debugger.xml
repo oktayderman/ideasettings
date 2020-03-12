@@ -129,6 +129,7 @@
   </component>
   <component name="NodeRendererSettings">
     <Renderer ID="ToStringRenderer">
+      <option name="ENABLED" value="false" />
       <option name="ON_DEMAND" value="true" />
     </Renderer>
   </component>
@@ -137,12 +138,5 @@
     <general>
       <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
     </general>
-    <debuggers>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
-        </configuration>
-      </debugger>
-    </debuggers>
   </component>
 </application>
