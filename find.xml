@@ -17,7 +17,7 @@
     <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>*.xsd</mask>
-    <mask>pom.xml</mask>
     <mask>*.conf</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
