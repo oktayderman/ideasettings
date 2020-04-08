@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.conf" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -22,7 +22,7 @@
     <mask>drop&amp;alter.sql</mask>
     <mask>create.sql</mask>
     <mask>*.sql</mask>
-    <mask>*.java</mask>
     <mask>*.conf</mask>
+    <mask>*.java</mask>
   </component>
 </application>
