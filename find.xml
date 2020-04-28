@@ -14,12 +14,12 @@
     <mask>*.xml</mask>
     <mask>drop&amp;alter.sql</mask>
     <mask>create.sql</mask>
-    <mask>*.txt</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>*.conf</mask>
     <mask>*.sh</mask>
     <mask>pom.xml</mask>
     <mask>*.xsd</mask>
+    <mask>*.txt</mask>
   </component>
 </application>
