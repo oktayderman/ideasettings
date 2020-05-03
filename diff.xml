@@ -56,7 +56,6 @@
       <entry key="CommitDialog">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
-          <option name="IGNORE_POLICY" value="FORMATTING" />
           <option name="READ_ONLY_LOCK" value="false" />
         </PlaceSettings>
       </entry>
