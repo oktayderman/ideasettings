@@ -18,8 +18,8 @@
     <mask>*.xsd</mask>
     <mask>*.conf</mask>
     <mask>*.txt</mask>
-    <mask>*.java</mask>
     <mask>pom.xml</mask>
     <mask>*.sql</mask>
+    <mask>*.java</mask>
   </component>
 </application>
