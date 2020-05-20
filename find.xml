@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xsd" />
+    <option name="FILE_MASK" value="akka.conf" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -24,5 +22,6 @@
     <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>*.xsd</mask>
+    <mask>akka.conf</mask>
   </component>
 </application>
