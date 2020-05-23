@@ -3,12 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="alter.sql" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.log</mask>
-    <mask>alter.sql</mask>
     <mask>*.yaml</mask>
     <mask>*.xml</mask>
     <mask>drop&amp;alter.sql</mask>
@@ -17,10 +17,11 @@
     <mask>*.conf</mask>
     <mask>pom.xml</mask>
     <mask>*.txt</mask>
-    <mask>*.sql</mask>
     <mask>*.xsd</mask>
     <mask>akka.conf</mask>
     <mask>*.SQL</mask>
     <mask>*.java</mask>
+    <mask>*.sql</mask>
+    <mask>alter.sql</mask>
   </component>
 </application>
