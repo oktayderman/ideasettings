@@ -9,6 +9,9 @@
               <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool" />
               <option value="com.intellij.database.model.diff.SchemaDiffTool" />
               <option value="com.intellij.database.diff.TableDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.properties.SvnPropertiesDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.SvnPhantomChangeDiffRequestProvider.SvnPhantomDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.SvnTreeConflictDiffRequestProvider.SvnTreeConflictDiffTool" />
               <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
               <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
               <option value="com.intellij.diff.tools.binary.BinaryDiffTool" />
@@ -23,6 +26,9 @@
             <list>
               <option value="com.intellij.openapi.vcs.changes.patch.tool.ApplyPatchDiffTool" />
               <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.properties.SvnPropertiesDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.SvnPhantomChangeDiffRequestProvider.SvnPhantomDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.SvnTreeConflictDiffRequestProvider.SvnTreeConflictDiffTool" />
               <option value="com.intellij.database.model.diff.SchemaDiffTool" />
               <option value="com.intellij.database.diff.TableDiffTool" />
               <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
@@ -41,6 +47,9 @@
               <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
               <option value="com.intellij.openapi.vcs.changes.patch.tool.ApplyPatchDiffTool" />
               <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.properties.SvnPropertiesDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.SvnPhantomChangeDiffRequestProvider.SvnPhantomDiffTool" />
+              <option value="org.jetbrains.idea.svn.difftool.SvnTreeConflictDiffRequestProvider.SvnTreeConflictDiffTool" />
               <option value="com.intellij.database.model.diff.SchemaDiffTool" />
               <option value="com.intellij.database.diff.TableDiffTool" />
               <option value="com.intellij.diff.tools.binary.BinaryDiffTool" />
@@ -56,14 +65,11 @@
       <entry key="CommitDialog">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
-          <option name="IGNORE_POLICY" value="FORMATTING" />
           <option name="READ_ONLY_LOCK" value="false" />
         </PlaceSettings>
       </entry>
       <entry key="Default">
         <PlaceSettings>
-          <option name="ENABLE_SYNC_SCROLL" value="false" />
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
           <option name="USE_SOFT_WRAPS" value="true" />
         </PlaceSettings>
       </entry>
@@ -74,7 +80,7 @@
       </entry>
       <entry key="VcsLogView">
         <PlaceSettings>
-          <option name="ENABLE_SYNC_SCROLL" value="false" />
+          <option name="EXPAND_BY_DEFAULT" value="false" />
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
         </PlaceSettings>
       </entry>
