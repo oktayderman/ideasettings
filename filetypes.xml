@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
