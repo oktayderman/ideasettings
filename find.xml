@@ -17,9 +17,9 @@
     <mask>*.xml</mask>
     <mask>*.conf</mask>
     <mask>*.java</mask>
-    <mask>*.sql</mask>
     <mask>*.XML</mask>
     <mask>pom.xml</mask>
     <mask>*.txt</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
