@@ -20,8 +20,8 @@
       </list>
     </option>
     <rules>
-      <Rule active="false" key="squid:CommentedOutCodeLine" />
       <Rule active="false" key="squid:S1118" />
+      <Rule active="false" key="squid:CommentedOutCodeLine" />
     </rules>
   </component>
 </application>
