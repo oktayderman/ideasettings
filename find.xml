@@ -5,12 +5,12 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sh" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.log</mask>
-    <mask>*.sh</mask>
     <mask>*.SQL</mask>
     <mask>alter.sql</mask>
     <mask>*.yaml</mask>
@@ -24,5 +24,6 @@
     <mask>*.sql</mask>
     <mask>*.txt</mask>
     <mask>*.java</mask>
+    <mask>*.sh</mask>
   </component>
 </application>
