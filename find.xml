@@ -20,8 +20,8 @@
     <mask>*.sql</mask>
     <mask>*.txt</mask>
     <mask>*.sh</mask>
-    <mask>*.conf</mask>
     <mask>*.xsd</mask>
     <mask>*.java</mask>
+    <mask>*.conf</mask>
   </component>
 </application>
