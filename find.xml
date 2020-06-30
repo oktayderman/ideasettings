@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,11 +18,11 @@
     <mask>drop*.sql</mask>
     <mask>create</mask>
     <mask>create*.sql</mask>
-    <mask>*.sql</mask>
     <mask>*.txt</mask>
     <mask>*.sh</mask>
     <mask>*.xsd</mask>
     <mask>*.java</mask>
     <mask>*.conf</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
