@@ -10,7 +10,6 @@
     <mask>*.SQL</mask>
     <mask>alter.sql</mask>
     <mask>*.yaml</mask>
-    <mask>pom.xml</mask>
     <mask>*.XML</mask>
     <mask>*.xml</mask>
     <mask>drop*.sql</mask>
@@ -22,7 +21,8 @@
     <mask>*.properties</mask>
     <mask>*.conf</mask>
     <mask>*.JAVA</mask>
-    <mask>*.java</mask>
     <mask>*.sql</mask>
+    <mask>*.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
