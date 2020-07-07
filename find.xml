@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -11,7 +14,6 @@
     <mask>alter.sql</mask>
     <mask>*.yaml</mask>
     <mask>*.XML</mask>
-    <mask>*.xml</mask>
     <mask>drop*.sql</mask>
     <mask>create</mask>
     <mask>create*.sql</mask>
@@ -22,7 +24,8 @@
     <mask>*.conf</mask>
     <mask>*.JAVA</mask>
     <mask>*.sql</mask>
-    <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
