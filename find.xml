@@ -14,7 +14,6 @@
     <mask>create</mask>
     <mask>create*.sql</mask>
     <mask>*.txt</mask>
-    <mask>*.sh</mask>
     <mask>*.xsd</mask>
     <mask>*.properties</mask>
     <mask>*.conf</mask>
@@ -22,7 +21,8 @@
     <mask>*.SQL</mask>
     <mask>*.JAVA</mask>
     <mask>*.java</mask>
-    <mask>*.sql</mask>
     <mask>*.xml</mask>
+    <mask>*.sql</mask>
+    <mask>*.sh</mask>
   </component>
 </application>
