@@ -24,7 +24,7 @@
     <mask>*.sh</mask>
     <mask>*.java</mask>
     <mask>*.conf</mask>
-    <mask>*.sql</mask>
     <mask>*.xml</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
