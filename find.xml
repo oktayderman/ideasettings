@@ -22,7 +22,7 @@
     <mask>*.JAVA</mask>
     <mask>*.sql</mask>
     <mask>pom.xml</mask>
-    <mask>*.conf</mask>
     <mask>*.java</mask>
+    <mask>*.conf</mask>
   </component>
 </application>
