@@ -22,10 +22,10 @@
     <mask>*.SQL</mask>
     <mask>*.txt</mask>
     <mask>pom.xml</mask>
-    <mask>*.conf</mask>
     <mask>*.sql</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*aomif*.xml</mask>
+    <mask>*.conf</mask>
+    <mask>*.java</mask>
   </component>
 </application>
