@@ -18,7 +18,6 @@
     <mask>*.JAVA</mask>
     <mask>*xml</mask>
     <mask>*.SH</mask>
-    <mask>*.SQL</mask>
     <mask>*.txt</mask>
     <mask>pom.xml</mask>
     <mask>*.sql</mask>
@@ -27,5 +26,6 @@
     <mask>*.conf</mask>
     <mask>*.java</mask>
     <mask>*.xsd</mask>
+    <mask>*.SQL</mask>
   </component>
 </application>
