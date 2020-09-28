@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.wsdl" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -23,9 +24,10 @@
     <mask>*aomif*.xml</mask>
     <mask>*.conf</mask>
     <mask>*.xsd</mask>
-    <mask>*.SQL</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*.xml</mask>
+    <mask>*.SQL</mask>
+    <mask>*.wsdl</mask>
   </component>
 </application>
