@@ -1,6 +1,6 @@
 <application>
   <component name="PathMacrosImpl">
     <macro name="MAVEN_REPOSITORY" value="/home/barons/.m2/repository" />
-    <macro name="KOTLIN_BUNDLED" value="/ortak/config/idea/config/plugins/Kotlin/kotlinc" />
+    <macro name="KOTLIN_BUNDLED" value="/media/barons/myData/data/dev/config/.IntelliJIdea2019.3/config/plugins/Kotlin/kotlinc" />
   </component>
 </application>
