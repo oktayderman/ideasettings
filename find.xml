@@ -3,11 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="alter.sql" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.log</mask>
-    <mask>alter.sql</mask>
     <mask>*.yaml</mask>
     <mask>*.XML</mask>
     <mask>drop*.sql</mask>
@@ -27,5 +27,6 @@
     <mask>*.SQL</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
+    <mask>alter.sql</mask>
   </component>
 </application>
