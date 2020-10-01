@@ -5,7 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.txt" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -28,8 +28,8 @@
     <mask>alter.sql</mask>
     <mask>*.sql</mask>
     <mask>*.xml</mask>
-    <mask>*.txt</mask>
     <mask>*.xsd</mask>
     <mask>*.java</mask>
+    <mask>*.txt</mask>
   </component>
 </application>
