@@ -8,6 +8,7 @@
         <option value="*.jsp" />
       </list>
     </option>
+    <option name="nodejsPath" value="" />
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
