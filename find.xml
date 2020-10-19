@@ -19,14 +19,14 @@
     <mask>*.SH</mask>
     <mask>pom.xml</mask>
     <mask>*aomif*.xml</mask>
-    <mask>*.conf</mask>
     <mask>*.SQL</mask>
     <mask>*.wsdl</mask>
     <mask>alter.sql</mask>
-    <mask>*.sql</mask>
     <mask>*.xml</mask>
     <mask>*.xsd</mask>
     <mask>*.txt</mask>
     <mask>*.java</mask>
+    <mask>*.conf</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
