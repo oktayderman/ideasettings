@@ -24,9 +24,9 @@
     <mask>alter.sql</mask>
     <mask>*.xml</mask>
     <mask>*.xsd</mask>
-    <mask>*.txt</mask>
     <mask>*.sql</mask>
     <mask>*.conf</mask>
     <mask>*.java</mask>
+    <mask>*.txt</mask>
   </component>
 </application>
