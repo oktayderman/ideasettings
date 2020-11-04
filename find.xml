@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="web..xmş" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -31,5 +32,6 @@
     <mask>*.txt</mask>
     <mask>*.java</mask>
     <mask>*.txt</mask>
+    <mask>web..xmş</mask>
   </component>
 </application>
