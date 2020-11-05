@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -28,7 +31,7 @@
     <mask>*.txt</mask>
     <mask>web..xmş</mask>
     <mask>pom.xml</mask>
-    <mask>*.sql</mask>
     <mask>*.java</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
