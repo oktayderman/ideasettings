@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="log4j2_base.xml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -34,5 +34,6 @@
     <mask>conf</mask>
     <mask>*.conf</mask>
     <mask>pom.xml</mask>
+    <mask>log4j2_base.xml</mask>
   </component>
 </application>
