@@ -21,6 +21,11 @@
       </list>
     </option>
     <rules>
+      <Rule key="java:S1191">
+        <params>
+          <param key="Exclude" value="sun.misc" />
+        </params>
+      </Rule>
       <Rule active="false" key="squid:S1118" />
       <Rule active="false" key="squid:CommentedOutCodeLine" />
     </rules>
