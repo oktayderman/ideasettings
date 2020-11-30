@@ -3,10 +3,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.log" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
-    <mask>*.log</mask>
     <mask>*.XML</mask>
     <mask>drop*.sql</mask>
     <mask>create</mask>
@@ -30,5 +30,6 @@
     <mask>pom.xml</mask>
     <mask>*.sql</mask>
     <mask>*.yaml</mask>
+    <mask>*.log</mask>
   </component>
 </application>
