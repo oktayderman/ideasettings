@@ -5,10 +5,11 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>pom.xml</mask>
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.txt</mask>
     <mask>*.java</mask>
     <mask>*.JAVA</mask>
     <mask>*.sql</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
