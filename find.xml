@@ -3,9 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>pom.xml</mask>
     <mask>*.txt</mask>
-    <mask>*.java</mask>
+    <mask>*.JAVA</mask>
     <mask>*.sql</mask>
+    <mask>pom.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.xsd</mask>
   </component>
 </application>
