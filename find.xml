@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.conf" />
     <mask>*.txt</mask>
     <mask>*.JAVA</mask>
     <mask>*.sql</mask>
@@ -10,5 +11,6 @@
     <mask>*.xsd</mask>
     <mask>alter.sql</mask>
     <mask>*.java</mask>
+    <mask>*.conf</mask>
   </component>
 </application>
