@@ -5,13 +5,14 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.conf" />
     <mask>*.JAVA</mask>
     <mask>*.xsd</mask>
     <mask>alter.sql</mask>
     <mask>*.txt</mask>
-    <mask>*.conf</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>pom.xml</mask>
+    <mask>*.conf</mask>
   </component>
 </application>
