@@ -14,5 +14,6 @@
     <mask>*.conf</mask>
     <mask>instructions.txt</mask>
     <mask>pom.xml</mask>
+    <mask>*.wsdl</mask>
   </component>
 </application>
