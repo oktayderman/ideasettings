@@ -3,15 +3,16 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.JAVA</mask>
     <mask>*.xsd</mask>
     <mask>alter.sql</mask>
     <mask>*.txt</mask>
     <mask>instructions.txt</mask>
-    <mask>pom.xml</mask>
     <mask>*.wsdl</mask>
     <mask>*.sql</mask>
     <mask>*.conf</mask>
     <mask>*.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
