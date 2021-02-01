@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.txt" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.JAVA</mask>
     <mask>*.xsd</mask>
     <mask>alter.sql</mask>
@@ -11,9 +13,9 @@
     <mask>*.wsdl</mask>
     <mask>*.conf</mask>
     <mask>*.xml</mask>
-    <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*.txt</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
