@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*.txt" />
     <mask>*.JAVA</mask>
     <mask>*.xsd</mask>
     <mask>alter.sql</mask>
@@ -15,7 +15,7 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
-    <mask>*.txt</mask>
     <mask>pom.xml</mask>
+    <mask>*.txt</mask>
   </component>
 </application>
