@@ -26,9 +26,17 @@
           <option name="url" value="https://github.com/jdegre/5GC_APIs" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://172.30.10.35/i2i/ocs/tt/tt_source" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://172.30.10.35" />
+          <option name="userName" value="oktay.cekmez" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/myData/dev/projects" />
+    <option name="cloneParentDir" value="/ortak/dev/projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
