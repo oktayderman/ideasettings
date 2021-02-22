@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.JAVA</mask>
-    <mask>*.xsd</mask>
     <mask>alter.sql</mask>
     <mask>instructions.txt</mask>
     <mask>*.wsdl</mask>
@@ -12,7 +11,11 @@
     <mask>*.xml</mask>
     <mask>*.txt</mask>
     <mask>pom.xml</mask>
-    <mask>*.sql</mask>
+    <mask>voltdb.sql</mask>
+    <mask>*.SQL</mask>
     <mask>*.java</mask>
+    <mask>*.xsd</mask>
+    <mask>*.XSD</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
