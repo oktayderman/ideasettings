@@ -3,13 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.JAVA</mask>
     <mask>alter.sql</mask>
     <mask>instructions.txt</mask>
     <mask>*.wsdl</mask>
     <mask>*.conf</mask>
-    <mask>pom.xml</mask>
     <mask>voltdb.sql</mask>
     <mask>*.SQL</mask>
     <mask>*.java</mask>
@@ -18,5 +17,6 @@
     <mask>*.sql</mask>
     <mask>*.txt</mask>
     <mask>*.xml</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
