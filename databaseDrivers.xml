@@ -12,6 +12,9 @@
     <driver id="clickhouse">
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="db2.11">
+      <option name="auto-sync" value="false" />
+    </driver>
     <driver id="db2">
       <option name="auto-sync" value="false" />
     </driver>
@@ -72,7 +75,7 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="oracle">
-      <artifact id="Oracle" name="Oracle" use="true" version="19.8.0.0" />
+      <artifact id="Oracle" name="Oracle" use="true" version="21.1.0.0" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="false" />
       <option name="format-sources-on-sync" value="true" />
@@ -113,9 +116,6 @@
     </driver>
     <driver id="vertica">
       <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="db2.11" name="">
-      <option name="auto-sync" value="false" />
     </driver>
     <driver id="org.voltdb.jdbc.Driver" name="org.voltdb.jdbc.Driver" driver-class="org.voltdb.jdbc.Driver">
       <option name="auto-commit" value="true" />
