@@ -2,8 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.txt" />
     <mask>*.JAVA</mask>
     <mask>alter.sql</mask>
     <mask>instructions.txt</mask>
@@ -17,7 +18,7 @@
     <mask>drop&amp;alter.sql</mask>
     <mask>*.conf</mask>
     <mask>*.sql</mask>
-    <mask>*.java</mask>
     <mask>*.txt</mask>
+    <mask>*.java</mask>
   </component>
 </application>
