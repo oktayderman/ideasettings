@@ -2,21 +2,23 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.JAVA</mask>
     <mask>alter.sql</mask>
     <mask>instructions.txt</mask>
     <mask>*.wsdl</mask>
-    <mask>*.txt</mask>
     <mask>pom.xml</mask>
     <mask>voltdb.sql</mask>
     <mask>*.SQL</mask>
-    <mask>*.xsd</mask>
     <mask>*.XSD</mask>
     <mask>*.xml</mask>
     <mask>drop&amp;alter.sql</mask>
     <mask>*.conf</mask>
     <mask>*.sql</mask>
+    <mask>*.txt</mask>
     <mask>*.java</mask>
+    <mask>*.xsd</mask>
   </component>
 </application>
