@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.JAVA</mask>
     <mask>alter.sql</mask>
     <mask>instructions.txt</mask>
@@ -14,10 +14,10 @@
     <mask>*.XSD</mask>
     <mask>drop&amp;alter.sql</mask>
     <mask>*.txt</mask>
-    <mask>*.xml</mask>
     <mask>*.xsd</mask>
     <mask>*.conf</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
