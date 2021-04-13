@@ -14,9 +14,9 @@
     <mask>*.xml</mask>
     <mask>drop&amp;alter.sql</mask>
     <mask>*.conf</mask>
-    <mask>*.sql</mask>
     <mask>*.txt</mask>
     <mask>*.java</mask>
     <mask>*.xsd</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
