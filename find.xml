@@ -11,12 +11,12 @@
     <mask>voltdb.sql</mask>
     <mask>*.SQL</mask>
     <mask>*.XSD</mask>
-    <mask>*.xml</mask>
     <mask>drop&amp;alter.sql</mask>
-    <mask>*.conf</mask>
     <mask>*.txt</mask>
-    <mask>*.java</mask>
     <mask>*.xsd</mask>
+    <mask>*.conf</mask>
+    <mask>*.java</mask>
     <mask>*.sql</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
