@@ -5,6 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.JAVA</mask>
     <mask>alter.sql</mask>
     <mask>instructions.txt</mask>
@@ -16,10 +17,10 @@
     <mask>drop&amp;alter.sql</mask>
     <mask>*.txt</mask>
     <mask>*.conf</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.xsd</mask>
     <mask>*.sql</mask>
     <mask>configProfile.sh</mask>
+    <mask>*.java</mask>
   </component>
 </application>
