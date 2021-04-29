@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.conf" />
     <mask>*.JAVA</mask>
     <mask>alter.sql</mask>
     <mask>instructions.txt</mask>
@@ -16,8 +17,8 @@
     <mask>*.xsd</mask>
     <mask>*.sql</mask>
     <mask>configProfile.sh</mask>
-    <mask>*.conf</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.conf</mask>
   </component>
 </application>
