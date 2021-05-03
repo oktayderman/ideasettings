@@ -19,5 +19,6 @@
     <mask>pom.xml</mask>
     <mask>*.conf</mask>
     <mask>*.txt</mask>
+    <mask>*.sh</mask>
   </component>
 </application>
