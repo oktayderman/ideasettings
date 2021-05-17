@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>alter.sql</mask>
     <mask>instructions.txt</mask>
     <mask>*.wsdl</mask>
@@ -10,7 +11,6 @@
     <mask>*.SQL</mask>
     <mask>*.XSD</mask>
     <mask>drop&amp;alter.sql</mask>
-    <mask>*.xml</mask>
     <mask>*.xsd</mask>
     <mask>configProfile.sh</mask>
     <mask>pom.xml</mask>
@@ -20,5 +20,6 @@
     <mask>*.sh</mask>
     <mask>*.sql</mask>
     <mask>*.JAVA</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
