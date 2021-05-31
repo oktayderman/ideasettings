@@ -20,5 +20,6 @@
     <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>create*.sql</mask>
   </component>
 </application>
