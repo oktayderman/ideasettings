@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>instructions.txt</mask>
     <mask>*.wsdl</mask>
@@ -22,8 +20,8 @@
     <mask>alter.sql</mask>
     <mask>pom.xml</mask>
     <mask>*.sql</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>create*.sql</mask>
+    <mask>*.java</mask>
   </component>
 </application>
