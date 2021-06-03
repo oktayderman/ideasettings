@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>instructions.txt</mask>
     <mask>*.wsdl</mask>
     <mask>voltdb.sql</mask>
@@ -19,8 +20,8 @@
     <mask>*.sql</mask>
     <mask>create*.sql</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.conf</mask>
     <mask>log4j2-base.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
