@@ -25,7 +25,7 @@
       </entry>
       <entry key="VcsFileHistoryView">
         <PlaceSettings>
-          <option name="IGNORE_POLICY" value="FORMATTING" />
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
         </PlaceSettings>
       </entry>
       <entry key="VcsLogView">
