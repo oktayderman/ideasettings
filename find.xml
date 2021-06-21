@@ -17,10 +17,10 @@
     <mask>alter.sql</mask>
     <mask>create*.sql</mask>
     <mask>*.xml</mask>
-    <mask>*.conf</mask>
     <mask>log4j2-base.xml</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
+    <mask>*.conf</mask>
   </component>
 </application>
