@@ -18,9 +18,9 @@
     <mask>*.xml</mask>
     <mask>log4j2-base.xml</mask>
     <mask>alter.sql</mask>
-    <mask>*.conf</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>pom.xml</mask>
+    <mask>*.conf</mask>
   </component>
 </application>
