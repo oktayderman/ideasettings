@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.txt" />
     <mask>instructions.txt</mask>
     <mask>*.wsdl</mask>
     <mask>voltdb.sql</mask>
@@ -11,7 +12,6 @@
     <mask>drop&amp;alter.sql</mask>
     <mask>*.xsd</mask>
     <mask>configProfile.sh</mask>
-    <mask>*.txt</mask>
     <mask>*.sh</mask>
     <mask>*.JAVA</mask>
     <mask>create*.sql</mask>
@@ -20,7 +20,8 @@
     <mask>alter.sql</mask>
     <mask>*.conf</mask>
     <mask>*.sql</mask>
-    <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.txt</mask>
   </component>
 </application>
