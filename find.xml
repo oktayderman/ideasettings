@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>instructions.txt</mask>
     <mask>*.wsdl</mask>
@@ -11,17 +13,16 @@
     <mask>drop&amp;alter.sql</mask>
     <mask>*.xsd</mask>
     <mask>configProfile.sh</mask>
-    <mask>*.txt</mask>
     <mask>*.sh</mask>
     <mask>*.JAVA</mask>
     <mask>create*.sql</mask>
+    <mask>*.xml</mask>
     <mask>log4j2-base.xml</mask>
     <mask>alter.sql</mask>
-    <mask>*.java</mask>
+    <mask>*.conf</mask>
     <mask>*.sql</mask>
     <mask>pom.xml</mask>
-    <mask>*niat*</mask>
-    <mask>*.conf</mask>
-    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.txt</mask>
   </component>
 </application>
