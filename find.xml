@@ -3,6 +3,7 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.txt" />
     <mask>instructions.txt</mask>
     <mask>*.wsdl</mask>
     <mask>voltdb.sql</mask>
@@ -21,7 +22,7 @@
     <mask>*.sql</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
-    <mask>*.txt</mask>
     <mask>hazelcast-client.xml</mask>
+    <mask>*.txt</mask>
   </component>
 </application>
