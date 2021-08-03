@@ -18,10 +18,10 @@
     <mask>log4j2-base.xml</mask>
     <mask>alter.sql</mask>
     <mask>*.conf</mask>
-    <mask>pom.xml</mask>
     <mask>hazelcast-client.xml</mask>
     <mask>*.txt</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
