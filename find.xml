@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="create*.sql" />
     <mask>instructions.txt</mask>
     <mask>*.wsdl</mask>
     <mask>voltdb.sql</mask>
@@ -13,7 +14,6 @@
     <mask>configProfile.sh</mask>
     <mask>*.sh</mask>
     <mask>*.JAVA</mask>
-    <mask>create*.sql</mask>
     <mask>*.xml</mask>
     <mask>log4j2-base.xml</mask>
     <mask>alter.sql</mask>
@@ -24,5 +24,7 @@
     <mask>.sql</mask>
     <mask>*.conf</mask>
     <mask>*.sql</mask>
+    <mask>createProcedure*.sql</mask>
+    <mask>create*.sql</mask>
   </component>
 </application>
