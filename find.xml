@@ -17,7 +17,6 @@
     <mask>log4j2-base.xml</mask>
     <mask>alter.sql</mask>
     <mask>hazelcast-client.xml</mask>
-    <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*.txt</mask>
     <mask>.sql</mask>
@@ -25,5 +24,6 @@
     <mask>createProcedure*.sql</mask>
     <mask>create*.sql</mask>
     <mask>*.sql</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
