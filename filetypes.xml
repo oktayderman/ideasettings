@@ -11,6 +11,7 @@
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
