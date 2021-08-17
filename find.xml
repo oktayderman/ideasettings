@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>instructions.txt</mask>
     <mask>*.wsdl</mask>
@@ -15,14 +13,17 @@
     <mask>configProfile.sh</mask>
     <mask>*.sh</mask>
     <mask>*.JAVA</mask>
-    <mask>create*.sql</mask>
     <mask>*.xml</mask>
     <mask>log4j2-base.xml</mask>
     <mask>alter.sql</mask>
-    <mask>*.conf</mask>
-    <mask>*.sql</mask>
-    <mask>pom.xml</mask>
-    <mask>*.java</mask>
+    <mask>hazelcast-client.xml</mask>
     <mask>*.txt</mask>
+    <mask>.sql</mask>
+    <mask>createProcedure*.sql</mask>
+    <mask>create*.sql</mask>
+    <mask>*.conf</mask>
+    <mask>pom.xml</mask>
+    <mask>*.sql</mask>
+    <mask>*.java</mask>
   </component>
 </application>
