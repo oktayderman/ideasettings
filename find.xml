@@ -10,6 +10,8 @@
     <mask>drop&amp;alter.sql</mask>
     <mask>*.xsd</mask>
     <mask>configProfile.sh</mask>
+    <mask>*.sh</mask>
+    <mask>*.JAVA</mask>
     <mask>log4j2-base.xml</mask>
     <mask>alter.sql</mask>
     <mask>hazelcast-client.xml</mask>
@@ -17,15 +19,12 @@
     <mask>.sql</mask>
     <mask>createProcedure*.sql</mask>
     <mask>create*.sql</mask>
-    <mask>pom.xml</mask>
     <mask>*.SQL</mask>
     <mask>*.xml</mask>
     <mask>*.conf</mask>
     <mask>*.java</mask>
-    <mask>*.sql</mask>
     <mask>2.*.sql</mask>
-    <mask>*.sh</mask>
-    <mask>*.CONF</mask>
-    <mask>*.JAVA</mask>
+    <mask>pom.xml</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
