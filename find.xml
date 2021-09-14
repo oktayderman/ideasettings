@@ -2,21 +2,18 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
     <mask>instructions.txt</mask>
     <mask>*.wsdl</mask>
     <mask>voltdb.sql</mask>
-    <mask>*.SQL</mask>
     <mask>*.XSD</mask>
     <mask>drop&amp;alter.sql</mask>
     <mask>*.xsd</mask>
     <mask>configProfile.sh</mask>
     <mask>*.sh</mask>
     <mask>*.JAVA</mask>
-    <mask>*.xml</mask>
     <mask>log4j2-base.xml</mask>
     <mask>alter.sql</mask>
     <mask>hazelcast-client.xml</mask>
@@ -24,9 +21,12 @@
     <mask>.sql</mask>
     <mask>createProcedure*.sql</mask>
     <mask>create*.sql</mask>
+    <mask>pom.xml</mask>
+    <mask>*.SQL</mask>
+    <mask>*.xml</mask>
     <mask>*.conf</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
-    <mask>pom.xml</mask>
+    <mask>2.*.sql</mask>
   </component>
 </application>
