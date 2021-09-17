@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>instructions.txt</mask>
     <mask>*.wsdl</mask>
     <mask>voltdb.sql</mask>
@@ -27,5 +27,6 @@
     <mask>recf*.xml</mask>
     <mask>*.txt</mask>
     <mask>pom.xml</mask>
+    <mask>3*.sql</mask>
   </component>
 </application>
