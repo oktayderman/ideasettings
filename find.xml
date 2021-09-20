@@ -3,8 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.conf" />
     <mask>instructions.txt</mask>
     <mask>*.wsdl</mask>
     <mask>voltdb.sql</mask>
@@ -22,13 +25,13 @@
     <mask>create*.sql</mask>
     <mask>*.SQL</mask>
     <mask>*.xml</mask>
-    <mask>*.conf</mask>
     <mask>2.*.sql</mask>
-    <mask>*.sql</mask>
     <mask>recf*.xml</mask>
     <mask>*.txt</mask>
     <mask>3*.sql</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>*.sql</mask>
+    <mask>*.conf</mask>
   </component>
 </application>
