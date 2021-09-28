@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.SQL" />
     <mask>instructions.txt</mask>
     <mask>*.wsdl</mask>
     <mask>voltdb.sql</mask>
@@ -25,10 +24,10 @@
     <mask>*.txt</mask>
     <mask>3*.sql</mask>
     <mask>*.conf</mask>
-    <mask>pom.xml</mask>
     <mask>aomif*.xml</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
+    <mask>pom.xml</mask>
     <mask>*.SQL</mask>
   </component>
 </application>
