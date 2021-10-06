@@ -10,7 +10,6 @@
     <mask>drop&amp;alter.sql</mask>
     <mask>*.xsd</mask>
     <mask>configProfile.sh</mask>
-    <mask>*.sh</mask>
     <mask>*.JAVA</mask>
     <mask>log4j2-base.xml</mask>
     <mask>alter.sql</mask>
@@ -29,5 +28,6 @@
     <mask>*.java</mask>
     <mask>*.txt</mask>
     <mask>pom.xml</mask>
+    <mask>*.sh</mask>
   </component>
 </application>
