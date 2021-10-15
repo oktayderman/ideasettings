@@ -27,7 +27,7 @@
     <mask>*.java</mask>
     <mask>*.txt</mask>
     <mask>*.conf</mask>
-    <mask>*.sql</mask>
     <mask>*.JAVA</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
