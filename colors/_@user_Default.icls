@@ -1,11 +1,17 @@
 <scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-08-08T22:18:45</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-08-21T09:21:14</property>
+    <property name="modified">2021-10-20T20:43:53</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_LINE_SPACING" value="1.5" />
   <colors>
     <option name="RIGHT_MARGIN_COLOR" value="a5a5a5" />
     <option name="VISUAL_INDENT_GUIDE" value="a5a5a5" />
@@ -13,11 +19,6 @@
   <attributes>
     <option name="HTML_CODE">
       <value />
-    </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
     </option>
     <option name="KOTLIN_LABEL">
       <value />
