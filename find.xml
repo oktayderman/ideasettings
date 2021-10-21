@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>instructions.txt</mask>
     <mask>*.wsdl</mask>
     <mask>voltdb.sql</mask>
@@ -25,11 +26,11 @@
     <mask>*.txt</mask>
     <mask>*.conf</mask>
     <mask>*.JAVA</mask>
-    <mask>*.sql</mask>
     <mask>*.xml</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*.sh</mask>
     <mask>*.xsd</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
