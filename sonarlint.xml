@@ -21,16 +21,15 @@
     </option>
     <option name="taintVulnerabilitiesTabDisclaimerDismissed" value="true" />
     <rules>
-      <Rule active="false" key="java:S1488" />
+      <Rule active="false" key="java:S1874" />
       <Rule active="false" key="java:S1157" />
       <Rule active="false" key="squid:CommentedOutCodeLine" />
+      <Rule active="false" key="java:S1155" />
       <Rule active="false" key="java:S2209" />
-      <Rule active="false" key="java:S1066" />
-      <Rule active="false" key="java:S1186" />
+      <Rule active="false" key="java:S2629" />
       <Rule active="false" key="java:S1130" />
       <Rule active="false" key="squid:S1118" />
       <Rule active="false" key="java:S1192" />
-      <Rule active="false" key="java:S1181" />
       <Rule key="java:S1191">
         <params>
           <param key="Exclude" value="sun.misc" />
@@ -38,10 +37,21 @@
       </Rule>
       <Rule active="false" key="java:S112" />
       <Rule active="false" key="java:S117" />
-      <Rule active="false" key="java:S1319" />
       <Rule active="false" key="java:S3740" />
       <Rule active="false" key="java:S2696" />
       <Rule active="false" key="java:S1602" />
+      <Rule active="false" key="java:S1488" />
+      <Rule active="false" key="java:S1066" />
+      <Rule active="false" key="java:S1186" />
+      <Rule active="false" key="java:S1181" />
+      <Rule active="false" key="java:S5993" />
+      <Rule active="false" key="java:S2142" />
+      <Rule active="false" key="java:S1858" />
+      <Rule active="false" key="java:S1319" />
+      <Rule active="false" key="java:S2387" />
+      <Rule active="false" key="java:S3655" />
+      <Rule active="false" key="java:S1612" />
+      <Rule active="false" key="java:S1854" />
       <Rule active="false" key="java:S3358" />
     </rules>
   </component>
