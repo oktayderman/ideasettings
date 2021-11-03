@@ -24,6 +24,7 @@
       <Rule active="false" key="java:S1488" />
       <Rule active="false" key="java:S1157" />
       <Rule active="false" key="squid:CommentedOutCodeLine" />
+      <Rule active="false" key="java:S2209" />
       <Rule active="false" key="java:S1066" />
       <Rule active="false" key="java:S1186" />
       <Rule active="false" key="java:S1130" />
@@ -35,6 +36,7 @@
           <param key="Exclude" value="sun.misc" />
         </params>
       </Rule>
+      <Rule active="false" key="java:S112" />
       <Rule active="false" key="java:S117" />
       <Rule active="false" key="java:S1319" />
       <Rule active="false" key="java:S3740" />
