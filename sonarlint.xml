@@ -32,14 +32,14 @@
       <Rule active="false" key="java:S3400" />
       <Rule active="false" key="java:S1602" />
       <Rule active="false" key="java:S1128" />
-      <Rule active="false" key="java:S2479" />
       <Rule active="false" key="java:S115" />
+      <Rule active="false" key="java:S2479" />
       <Rule active="false" key="java:S1126" />
       <Rule active="false" key="java:S3008" />
       <Rule active="false" key="java:S1444" />
       <Rule active="false" key="java:S1488" />
-      <Rule active="false" key="java:S1168" />
       <Rule active="false" key="java:S1124" />
+      <Rule active="false" key="java:S1168" />
       <Rule active="false" key="java:S1640" />
       <Rule active="false" key="java:S1165" />
       <Rule active="false" key="java:S1481" />
@@ -47,12 +47,13 @@
       <Rule active="false" key="java:S100" />
       <Rule active="false" key="java:S3010" />
       <Rule active="false" key="java:S3252" />
-      <Rule active="false" key="java:S107" />
       <Rule active="false" key="java:S5993" />
+      <Rule active="false" key="java:S107" />
       <Rule active="false" key="java:S1319" />
       <Rule active="false" key="java:S108" />
-      <Rule active="false" key="java:S3457" />
+      <Rule active="false" key="java:S1117" />
       <Rule active="false" key="java:S3776" />
+      <Rule active="false" key="java:S3457" />
       <Rule active="false" key="java:S3655" />
       <Rule active="false" key="java:S1116" />
       <Rule active="false" key="java:S1874" />
@@ -86,8 +87,8 @@
       <Rule active="false" key="java:S120" />
       <Rule active="false" key="java:S2142" />
       <Rule active="false" key="java:S3398" />
-      <Rule active="false" key="java:S2386" />
       <Rule active="false" key="java:S1858" />
+      <Rule active="false" key="java:S2386" />
       <Rule active="false" key="java:S2387" />
       <Rule active="false" key="java:S1612" />
       <Rule active="false" key="java:S1854" />
