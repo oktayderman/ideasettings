@@ -2,8 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="gz" type="ARCHIVE" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="db" type="Native" />
       <mapping ext="cdr" type="PLAIN_TEXT" />
       <mapping ext="rst" type="PLAIN_TEXT" />
@@ -13,6 +11,8 @@
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
