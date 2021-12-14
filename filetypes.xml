@@ -7,6 +7,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="db" type="Native" />
       <mapping ext="cdr" type="PLAIN_TEXT" />
+      <mapping ext="dll" type="PLAIN_TEXT" />
       <mapping ext="rst" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
