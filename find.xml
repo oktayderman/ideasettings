@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <mask>*.wsdl</mask>
     <mask>voltdb.sql</mask>
     <mask>*.XSD</mask>
@@ -23,16 +22,16 @@
     <mask>*.txt</mask>
     <mask>*.sh</mask>
     <mask>*.xsd</mask>
+    <mask>pom.xml</mask>
     <mask>*.sql</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>*.conf</mask>
     <mask>*.JAVA</mask>
     <mask>config</mask>
-    <mask>pom.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
