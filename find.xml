@@ -2,9 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.wsdl</mask>
     <mask>voltdb.sql</mask>
     <mask>*.XSD</mask>
@@ -32,8 +31,8 @@
     <mask>*.conf</mask>
     <mask>*.JAVA</mask>
     <mask>config</mask>
-    <mask>*.java</mask>
     <mask>log4j2-base.xml</mask>
     <mask>*.sql</mask>
+    <mask>*.java</mask>
   </component>
 </application>
