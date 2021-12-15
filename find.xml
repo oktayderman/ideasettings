@@ -5,12 +5,12 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.wsdl</mask>
     <mask>voltdb.sql</mask>
     <mask>*.XSD</mask>
     <mask>drop&amp;alter.sql</mask>
     <mask>configProfile.sh</mask>
-    <mask>log4j2-base.xml</mask>
     <mask>alter.sql</mask>
     <mask>hazelcast-client.xml</mask>
     <mask>.sql</mask>
@@ -34,6 +34,7 @@
     <mask>*.JAVA</mask>
     <mask>config</mask>
     <mask>*.java</mask>
+    <mask>log4j2-base.xml</mask>
     <mask>*.sql</mask>
   </component>
 </application>
