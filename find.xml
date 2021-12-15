@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.wsdl</mask>
     <mask>voltdb.sql</mask>
     <mask>*.XSD</mask>
@@ -25,7 +26,6 @@
     <mask>*.sh</mask>
     <mask>*.xsd</mask>
     <mask>pom.xml</mask>
-    <mask>*.sql</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -35,5 +35,6 @@
     <mask>*.JAVA</mask>
     <mask>config</mask>
     <mask>*.java</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
