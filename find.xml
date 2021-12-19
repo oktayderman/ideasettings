@@ -16,7 +16,6 @@
     <mask>recf*.xml</mask>
     <mask>3*.sql</mask>
     <mask>aomif*.xml</mask>
-    <mask>*.SQL</mask>
     <mask>*.txt</mask>
     <mask>*.sh</mask>
     <mask>*.xsd</mask>
@@ -33,5 +32,6 @@
     <mask>*.java</mask>
     <mask>*.conf</mask>
     <mask>*.info</mask>
+    <mask>*.SQL</mask>
   </component>
 </application>
