@@ -1,12 +1,17 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>instructions.txt</mask>
+    <mask>*.wsdl</mask>
     <mask>voltdb.sql</mask>
     <mask>*.XSD</mask>
     <mask>drop&amp;alter.sql</mask>
     <mask>configProfile.sh</mask>
+    <mask>log4j2-base.xml</mask>
     <mask>alter.sql</mask>
     <mask>hazelcast-client.xml</mask>
     <mask>.sql</mask>
@@ -16,22 +21,15 @@
     <mask>recf*.xml</mask>
     <mask>3*.sql</mask>
     <mask>aomif*.xml</mask>
+    <mask>*.SQL</mask>
     <mask>*.txt</mask>
+    <mask>*.conf</mask>
+    <mask>*.JAVA</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
     <mask>*.sh</mask>
     <mask>*.xsd</mask>
     <mask>pom.xml</mask>
-    <mask>*.css</mask>
-    <mask>*.html</mask>
-    <mask>*.xml</mask>
-    <mask>*.jsp</mask>
-    <mask>*.properties</mask>
-    <mask>*.JAVA</mask>
-    <mask>config</mask>
-    <mask>log4j2-base.xml</mask>
     <mask>*.sql</mask>
-    <mask>*.conf</mask>
-    <mask>*.info</mask>
-    <mask>*.SQL</mask>
-    <mask>*.java</mask>
   </component>
 </application>
