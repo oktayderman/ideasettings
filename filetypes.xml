@@ -16,6 +16,7 @@
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <removed_mapping ext="dll" type="UNKNOWN" />
+      <removed_mapping ext="dll" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
