@@ -19,7 +19,6 @@
     <mask>3*.sql</mask>
     <mask>aomif*.xml</mask>
     <mask>*.SQL</mask>
-    <mask>*.conf</mask>
     <mask>*.JAVA</mask>
     <mask>*.sh</mask>
     <mask>*.xsd</mask>
@@ -30,5 +29,6 @@
     <mask>*.log</mask>
     <mask>*.sql</mask>
     <mask>*.wsdl</mask>
+    <mask>*.conf</mask>
   </component>
 </application>
