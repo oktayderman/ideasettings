@@ -23,12 +23,12 @@
     <mask>*.JAVA</mask>
     <mask>*.sh</mask>
     <mask>*.xsd</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.txt</mask>
     <mask>*.log</mask>
     <mask>*.wsdl</mask>
     <mask>*.sql</mask>
     <mask>pom.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
