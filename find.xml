@@ -29,7 +29,7 @@
     <mask>*.conf</mask>
     <mask>pom.xml</mask>
     <mask>*.sql</mask>
-    <mask>*.java</mask>
     <mask>RTF*.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
