@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>instructions.txt</mask>
     <mask>voltdb.sql</mask>
     <mask>*.XSD</mask>
@@ -24,7 +25,6 @@
     <mask>*.JAVA</mask>
     <mask>*.sh</mask>
     <mask>*.xsd</mask>
-    <mask>*.xml</mask>
     <mask>*.txt</mask>
     <mask>*.log</mask>
     <mask>*.wsdl</mask>
@@ -33,5 +33,6 @@
     <mask>*.sql</mask>
     <mask>RTF*.java</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
