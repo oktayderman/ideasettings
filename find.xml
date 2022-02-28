@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>instructions.txt</mask>
     <mask>voltdb.sql</mask>
     <mask>*.XSD</mask>
@@ -29,9 +30,9 @@
     <mask>pom.xml</mask>
     <mask>*.sql</mask>
     <mask>RTF*.java</mask>
-    <mask>*.xml</mask>
     <mask>*.CONF</mask>
     <mask>*.</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
