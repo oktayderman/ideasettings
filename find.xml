@@ -3,35 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>instructions.txt</mask>
-    <mask>voltdb.sql</mask>
-    <mask>*.XSD</mask>
-    <mask>drop&amp;alter.sql</mask>
-    <mask>configProfile.sh</mask>
-    <mask>log4j2-base.xml</mask>
-    <mask>alter.sql</mask>
-    <mask>hazelcast-client.xml</mask>
-    <mask>.sql</mask>
-    <mask>createProcedure*.sql</mask>
-    <mask>create*.sql</mask>
-    <mask>2.*.sql</mask>
-    <mask>recf*.xml</mask>
-    <mask>3*.sql</mask>
-    <mask>aomif*.xml</mask>
-    <mask>*.SQL</mask>
-    <mask>*.JAVA</mask>
-    <mask>*.sh</mask>
-    <mask>*.xsd</mask>
-    <mask>*.txt</mask>
-    <mask>*.log</mask>
-    <mask>*.wsdl</mask>
-    <mask>*.conf</mask>
-    <mask>pom.xml</mask>
-    <mask>*.sql</mask>
-    <mask>RTF*.java</mask>
-    <mask>*.CONF</mask>
-    <mask>*.</mask>
-    <mask>*.java</mask>
+    <option name="FILE_MASK" value="*.sql" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
     <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
