@@ -1,20 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Default Changelist" />
+    <option name="defaultScopeName" value="Default Changelist" />
+    <option name="SEARCH_SCOPE" value="Default Changelist" />
     <mask>*.css</mask>
     <mask>*.html</mask>
+    <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.JAVA</mask>
-    <mask>*.xml</mask>
-    <mask>aomif*.xml</mask>
     <mask>*.sql</mask>
-    <mask>*.sh</mask>
-    <mask>*.txt</mask>
-    <mask>*.conf</mask>
-    <mask>pom.xml</mask>
   </component>
 </application>
