@@ -16,6 +16,8 @@
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
+      <mapping ext="xjb" type="XML" />
+      <mapping ext="wsdd" type="XML" />
     </extensionMap>
   </component>
 </application>
