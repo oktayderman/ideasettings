@@ -14,5 +14,6 @@
     <mask>*.</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.log</mask>
   </component>
 </application>
