@@ -12,10 +12,10 @@
     <mask>*.conf</mask>
     <mask>*.</mask>
     <mask>pom.xml</mask>
-    <mask>*.java</mask>
     <mask>*.txt</mask>
     <mask>*.xml</mask>
     <mask>*.sql</mask>
     <mask>!*.sql,!*.txt,!*.sh</mask>
+    <mask>*.java</mask>
   </component>
 </application>
