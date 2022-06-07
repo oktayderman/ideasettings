@@ -5,17 +5,18 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.conf</mask>
     <mask>*.</mask>
-    <mask>pom.xml</mask>
     <mask>*.txt</mask>
     <mask>*.xml</mask>
     <mask>*.sql</mask>
     <mask>!*.sql,!*.txt,!*.sh</mask>
     <mask>*.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
