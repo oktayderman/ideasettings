@@ -50,6 +50,10 @@
           <option name="url" value="https://github.com/oktaycekmez/ideasettings" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ozymaxx/spring-redis-demo" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/myData/dev/projects" />
