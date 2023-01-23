@@ -2,22 +2,24 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="gz" type="ARCHIVE" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="db" type="Native" />
-      <mapping ext="cdr" type="PLAIN_TEXT" />
-      <mapping ext="1" type="PLAIN_TEXT" />
-      <mapping ext="rst" type="PLAIN_TEXT" />
-      <mapping ext="0" type="PLAIN_TEXT" />
-      <mapping ext="bin" type="PLAIN_TEXT" />
-      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="cdr" type="PLAIN_TEXT" />
+      <mapping ext="0" type="PLAIN_TEXT" />
+      <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="rst" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
