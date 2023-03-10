@@ -16,7 +16,7 @@
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.5" />
     </driver>
     <driver id="sqlite.xerial">
-      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.36.0.3" />
+      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.40.1" />
     </driver>
     <driver id="org.voltdb.jdbc.Driver" name="org.voltdb.jdbc.Driver" driver-class="org.voltdb.jdbc.Driver">
       <library>

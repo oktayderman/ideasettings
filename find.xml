@@ -14,8 +14,8 @@
     <mask>!*.sql,!*.txt,!*.sh</mask>
     <mask>pom.xml</mask>
     <mask>!*.sql</mask>
-    <mask>*.java</mask>
     <mask>*.txt</mask>
     <mask>*.xsd</mask>
+    <mask>*.java</mask>
   </component>
 </application>
