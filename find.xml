@@ -3,18 +3,19 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.txt" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.conf</mask>
     <mask>*.</mask>
-    <mask>*.txt</mask>
     <mask>*.xml</mask>
     <mask>*.sql</mask>
     <mask>!*.sql,!*.txt,!*.sh</mask>
     <mask>pom.xml</mask>
     <mask>!*.sql</mask>
     <mask>*.java</mask>
+    <mask>*.txt</mask>
   </component>
 </application>

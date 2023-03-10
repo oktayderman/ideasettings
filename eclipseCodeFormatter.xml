@@ -1,14 +1,13 @@
 <application>
   <component name="EclipseCodeFormatterSettings">
+    <option name="pathToEclipse" value="/ortak/opt/eclipse" />
     <option name="settingsList">
       <list>
         <Settings>
-          <option name="eclipseVersion" value="CUSTOM" />
           <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1597923834403" />
           <option name="name" value="all-module" />
-          <option name="pathToConfigFileJava" value="/ortak/dev/projects/tt_source/DEV/code-format/ENV_eclipseCodeFormat.xml" />
-          <option name="pathToEclipse" value="/ortak/opt/eclipse" />
+          <option name="pathToConfigFileJava" value="/myData/dev/projects/tt_source/DEV/code-format/ENV_eclipseCodeFormat.xml" />
           <option name="selectedJavaProfile" value="ocsFormat" />
         </Settings>
       </list>
