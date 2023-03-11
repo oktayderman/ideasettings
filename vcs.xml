@@ -58,6 +58,10 @@
           <option name="url" value="http://gitlab.i2i.systems" />
           <option name="userName" value="oktay.derman" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/pavel-grigorev/spring-icomponent-demo" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/myData/dev/projects" />
