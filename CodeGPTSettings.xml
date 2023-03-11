@@ -1,6 +1,7 @@
 <application>
   <component name="ee.carlrobert.chatgpt.ide.settings.SettingsState">
-    <option name="apiKey" value="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" />
+    <option name="apiKey" value="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" />
     <option name="reverseProxyUrl" value="https://chat.duti.tech/api/conversation" />
+    <option name="chatCompletionBaseModel" value="CHATGPT_SNAPSHOT" />
   </component>
 </application>
