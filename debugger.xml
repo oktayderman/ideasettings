@@ -83,9 +83,6 @@
     </filter>
   </component>
   <component name="NodeRendererSettings">
-    <Renderer ID="ToStringRenderer">
-      <option name="ON_DEMAND" value="true" />
-    </Renderer>
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundNodeRenderer">
         <option name="ENABLED" value="true" />
@@ -108,12 +105,5 @@
     <general>
       <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
     </general>
-    <debuggers>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation />
-        </configuration>
-      </debugger>
-    </debuggers>
   </component>
 </application>
