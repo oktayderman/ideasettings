@@ -17,5 +17,6 @@
     <mask>*.xsd</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>log4j2-base.xml</mask>
   </component>
 </application>
