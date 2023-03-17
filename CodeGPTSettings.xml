@@ -4,4 +4,7 @@
     <option name="reverseProxyUrl" value="https://chat.duti.tech/api/conversation" />
     <option name="chatCompletionBaseModel" value="CHATGPT_SNAPSHOT" />
   </component>
+  <component name="ee.carlrobert.codegpt.ide.settings.SettingsState">
+    <option name="accountName" />
+  </component>
 </application>
