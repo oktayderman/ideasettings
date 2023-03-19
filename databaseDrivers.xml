@@ -4,7 +4,8 @@
       <artifact id="Cassandra" name="Cassandra" use="true" version="1.3.4" />
     </driver>
     <driver id="mysql.8">
-      <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" use="true" />
+      <artifact />
+      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
     </driver>
     <driver id="oracle.19">
       <artifact id="Oracle" name="Oracle" use="true" version="21.1.0.0" />
