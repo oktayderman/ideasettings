@@ -13,10 +13,10 @@
     <mask>!*.sql</mask>
     <mask>*.txt</mask>
     <mask>*.xsd</mask>
-    <mask>*.java</mask>
     <mask>log4j2-base.xml</mask>
     <mask>*.properties</mask>
     <mask>pom.xml</mask>
     <mask>*.sql</mask>
+    <mask>*.java</mask>
   </component>
 </application>
