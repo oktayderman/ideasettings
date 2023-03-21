@@ -5,6 +5,7 @@
     <option name="chatCompletionBaseModel" value="CHATGPT_SNAPSHOT" />
   </component>
   <component name="ee.carlrobert.codegpt.ide.settings.SettingsState">
-    <option name="accountName" />
+    <option name="reverseProxyUrl" value="https://bypass.duti.tech/api/conversation" />
+    <option name="chatCompletionBaseModel" value="CHATGPT_4" />
   </component>
 </application>
