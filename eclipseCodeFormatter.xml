@@ -1,0 +1,15 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1597923834403" />
+          <option name="name" value="all-module" />
+          <option name="pathToConfigFileJava" value="/myData/dev/projects/tt_source/DEV/code-format/ENV_eclipseCodeFormat.xml" />
+          <option name="selectedJavaProfile" value="ocsFormat" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>

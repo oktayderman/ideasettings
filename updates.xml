@@ -1,0 +1,15 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <option name="CHECK_NEEDED" value="false" />
+    <ignoredBuildNumbers>
+      <item value="222.3739.54" />
+      <item value="222.3345.118" />
+      <item value="223.8836.35" />
+      <item value="231.9011.34" />
+    </ignoredBuildNumbers>
+    <option name="LAST_BUILD_CHECKED" value="IU-222.4554.10" />
+    <option name="LAST_TIME_CHECKED" value="1687184794798" />
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+    <option name="WHATS_NEW_SHOWN_FOR" value="231" />
+  </component>
+</application>
