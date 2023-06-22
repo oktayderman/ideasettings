@@ -13,9 +13,9 @@
     <mask>*.xml</mask>
     <mask>.xjb</mask>
     <mask>*.java</mask>
-    <mask>*.sql</mask>
     <mask>*.conf</mask>
     <mask>*.txt</mask>
     <mask>pom.xml</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
