@@ -1,0 +1,12 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="com.intellij.jsf" />
+        <option value="com.intellij.javaee.batch" />
+        <option value="com.intellij.javaee.ejb" />
+        <option value="com.intellij.bigdatatools" />
+      </list>
+    </option>
+  </component>
+</application>

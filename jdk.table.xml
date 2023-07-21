@@ -1,0 +1,171 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="jbr-17" />
+      <type value="JavaSDK" />
+      <version value="JetBrains Runtime version 17.0.7" />
+      <homePath value="/myData/dev/opt/jbr17" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt:///myData/dev/opt/jbr17!/java.base" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/java.compiler" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/java.datatransfer" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/java.desktop" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/java.instrument" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/java.logging" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/java.management" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/java.management.rmi" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/java.naming" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/java.net.http" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/java.prefs" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/java.rmi" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/java.scripting" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/java.se" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/java.security.jgss" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/java.security.sasl" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/java.smartcardio" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/java.sql" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/java.sql.rowset" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/java.transaction.xa" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/java.xml" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/java.xml.crypto" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.accessibility" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.attach" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.charsets" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.compiler" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.crypto.ec" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.dynalink" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.httpserver" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.internal.ed" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.internal.le" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.javadoc" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.jcmd" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.jdi" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.jfr" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.jsobject" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.localedata" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.management" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.management.agent" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.management.jfr" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.naming.dns" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.naming.rmi" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.net" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.sctp" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.security.auth" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.security.jgss" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.unsupported" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.xml.dom" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr17!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="https://docs.oracle.com/en/java/javase/17/docs/api/" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="jbr-11" />
+      <type value="JavaSDK" />
+      <version value="JetBrains Runtime version 11.0.16" />
+      <homePath value="/myData/dev/opt/jbr11" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt:///myData/dev/opt/jbr11!/java.base" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/java.compiler" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/java.datatransfer" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/java.desktop" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/java.instrument" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/java.logging" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/java.management" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/java.management.rmi" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/java.naming" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/java.net.http" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/java.prefs" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/java.rmi" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/java.scripting" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/java.se" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/java.security.jgss" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/java.security.sasl" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/java.smartcardio" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/java.sql" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/java.sql.rowset" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/java.transaction.xa" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/java.xml" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/java.xml.crypto" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.accessibility" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.aot" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.attach" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.charsets" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.compiler" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.crypto.ec" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.dynalink" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.httpserver" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.internal.ed" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.internal.le" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.jcmd" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.jdi" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.jfr" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.jsobject" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.localedata" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.management" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.management.agent" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.management.jfr" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.naming.dns" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.naming.rmi" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.net" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.pack" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.sctp" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.security.auth" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.security.jgss" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.unsupported" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.xml.dom" type="simple" />
+            <root url="jrt:///myData/dev/opt/jbr11!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="https://docs.oracle.com/en/java/javase/11/docs/api/" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
